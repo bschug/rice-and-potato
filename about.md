@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: textpost
 title: Welcome to Rice and Potato!
 ---
 
