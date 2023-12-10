@@ -1,0 +1,27 @@
+---
+layout: default
+title: Rice & Potato
+---
+<div class="site-content clearfix post-layout-three-columns post-layout-columns">
+    <section class="content-area">
+        <main class="site-main" role="main">
+            <div class="post-wrapper clearfix">
+                {% for post in site.posts %}
+                <div class="post-column clearfix">
+                    <article class="type-post">
+                        <a href="{{ post.url }}" rel="bookmark">
+                            <img class="post-image" width="801" height="520" src="{{ post.image }}" class="thumbnail" sizes="(max-width: 801px) 100vw, 801px">
+                        </a>
+                        <header class="entry-header">
+                            <h2 class="entry-title">
+                                <a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a>
+                            </h2>
+                        </header>
+                        <div class="clearfix"></div>
+                    </article>
+                </div>
+                {% endfor %}
+            </div>
+        </main>
+    </section>
+</div>

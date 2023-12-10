@@ -1,0 +1,102 @@
+.site-content {
+    padding: 3em 0px 1em;
+}
+
+.post-layout-three-columns .content-area {
+    float: none;
+    width: 100%;
+    padding: 0px;
+}
+
+.content-area {
+    float: left;
+    box-sizing: border-box;
+    padding-right: 4em;
+    width: 75%;
+}
+
+.post-layout-columns .post-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -3em;
+}
+
+.post-layout-columns .post-wrapper .post-column, .footer-widgets-columns .footer-widget-column {
+    @media screen and (min-color-index: 0) and (-webkit-min-device-pixel-ratio: 0) {
+        margin-right: -1px;
+    }
+}
+
+.post-layout-three-columns .post-wrapper .post-column {
+    width: 33.3333%;
+}
+
+.post-layout-columns .post-wrapper .post-column {
+    box-sizing: border-box;
+    padding-right: 3em;
+}
+
+.type-post {
+    max-width: 100%;
+    margin: 0px 0px 3em;
+    padding: 0px;
+}
+
+.post-layout-columns .post-wrapper .post-column .type-post .post-image {
+    margin: 0px;
+}
+
+.post-wrapper .type-post .entry-title {
+    font-size: 1.75rem;
+
+    @media only screen and (max-width: 50em) {
+        font-size: 1.5rem;
+    }
+
+    @media only screen and (max-width: 60em) {
+        font-size: 1.75rem;
+    }
+
+    @media only screen and (max-width: 70em) {
+        font-size: 1.5rem;
+    }
+}
+
+.page-title, .entry-title {
+    color: var(--title-color);
+    overflow-wrap: break-word;
+    font-size: 2.25rem;
+    font-family: var(--title-font);
+    font-weight: var(--title-font-weight);
+    text-transform: var(--title-text-transform);
+    line-height: var(--title-line-height);
+    margin: 0px;
+    padding: 0px;
+
+    @media only screen and (max-width: 50em) {
+        font-size: 2rem;
+    }
+
+    @media only screen and (max-width: 60em) {
+        font-size: 2.25rem;
+    }
+
+    @media only screen and (max-width: 70em) {
+        font-size: 2rem;
+    }
+}
+
+.entry-title a:link, .entry-title a:visited {
+    color: var(--title-color);
+    text-decoration: none;
+}
+
+.page-title, .entry-title, .post-wrapper .type-post .entry-title {
+    @media only screen and (max-width: 30em) {
+        font-size: 1.5rem;
+    }
+
+    @media only screen and (max-width: 40em) {
+        font-size: 1.75rem;
+    }
+}

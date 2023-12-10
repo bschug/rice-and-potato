@@ -1,0 +1,155 @@
+:root {
+    --button-color: #33bbcc;
+    --button-text-color: #fff;
+
+    --light-border-color: rgba(0, 0, 0, 0.15);
+    --page-background-color: #fff;
+    
+    --link-color: #33bbcc;
+    --link-hover-color: #303030;
+
+    --text-color: #303030;
+    --text-font: 'Titillium Web', arial, helvetica, sans-serif;
+    --text-line-height: 1.75;
+
+    --title-color: #303030;
+    --title-font: 'Amaranth', arial, helvetica, sans-serif;
+    --title-font-weight: bold;
+    --title-text-transform: none;
+    --title-line-height: 1.4;    
+
+    --navi-color: #303030;
+    --navi-hover-color: rgba(0, 0, 0, 0.5);
+    --navi-font: 'Titillium Web', arial, helvetica, sans-serif;
+    --navi-font-weight: normal;
+    --navi-submenu-border-color: rgba(255, 255, 255, 0.1);
+    --navi-submenu-color: #303030;
+    --navi-submenu-text-color: #fff;
+    --navi-text-transform: none;
+}
+
+html {
+    font-family: sans-serif;
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(48, 48, 48);
+    margin: 0px;
+}
+
+body, button, input, select, textarea {
+    color: var(--text-color);
+    font-size: 1.0625rem;
+    font-family: var(--text-font);
+    line-height: var(--text-line-height);
+}
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
+    line-height: var(--title-line-height);
+}
+
+h2 {
+    font-size: 1.75rem;
+}
+
+a:link, a:visited {
+    color: var(--link-color);
+}
+
+a:hover {
+    color: var(--link-hover-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a {
+    background-color: transparent;
+}
+
+embed, iframe, object, figure, img, picture {
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+}
+
+ul {
+    list-style: disc;
+}
+
+ol, ul {
+    box-sizing: border-box;
+    margin: 1.5em 0px;
+    padding: 0px 0px 0px 1.25em;
+}
+
+button, input[type="button"], input[type="reset"], input[type="submit"] {
+    background-color: var(--button-color);
+    color: var(--button-text-color);
+    font-size: 1.0625rem;
+    margin: 0px;
+    padding: 0.6em 1em;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    text-decoration: none;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    cursor: pointer;
+    appearance: button;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button {
+    overflow: visible;
+}
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    margin: 0px;
+    font: inherit;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+.clearfix::before, .clearfix::after {
+    display: table;
+    content: "";
+}
+
+.clearfix::after {
+    clear: both;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
