@@ -23,7 +23,7 @@ greeting: Enjoy your meal!
  - 1 tablespoon tomato paste
  - 2 tablespoon barbecue sauce
  
- ## Procedure
+## Procedure
  
  1. Place all the ingredients into a food processor and blend until well combined or smooth.
  1. Rub the half marinade into spare ribs and let it set for minimum of 2 hrs, but ideally you let it marinade over night.
@@ -32,6 +32,6 @@ greeting: Enjoy your meal!
  1. In the meantime, add half of the marinade into a pan and simmer it at medium heat until the sauce is slightly thickened.
  1. When the spare ribs are done, brush the sauce onto the baked spare ribs, then broil it under high heat for 2 minutes.
  
- ## Tips
+## Tips
  
-  - Yes, it says one whole __bulb__ of garlic, not just one clove.
+ - Yes, it says one whole __bulb__ of garlic, not just one clove.

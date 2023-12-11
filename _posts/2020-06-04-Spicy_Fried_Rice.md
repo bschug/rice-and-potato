@@ -6,7 +6,8 @@ greeting: 慢用！
 ---
 
 ## Ingredients (2 portions)
- - 1 cup cooked rice (cold)</li><li>Spanish Chorizo sausage
+ - 1 cup cooked rice (cold)
+ - Spanish Chorizo sausage
  - 1 hand full of Champignons (mushrooms)
  - 2 cloves garlic
  - 1 shallot (small)
@@ -36,4 +37,3 @@ greeting: 慢用！
  - You can substitute the Maggi seasoning with soy sauce.
  - If you don't have Champignons, just use your favorite kind of mushrooms.
  - Basmati rice is really good for fried rice because it doesn't stick together.
- 
