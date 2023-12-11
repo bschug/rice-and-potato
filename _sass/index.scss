@@ -1,6 +1,4 @@
-.site-content {
-    padding: 3em 0px 1em;
-}
+
 
 .post-layout-three-columns .content-area {
     float: none;
@@ -13,12 +11,31 @@
     box-sizing: border-box;
     padding-right: 4em;
     width: 75%;
+
+    @media only screen and (max-width: 70em) {
+        padding-right: 3em;
+    }
+
+    @media only screen and (max-width: 60em) {
+        float: none;
+        width: 100%;
+        padding: 0px;
+    }
 }
 
 .post-layout-columns .post-wrapper {
     display: flex;
     flex-wrap: wrap;
     margin-right: -3em;
+
+    @media only screen and (max-width: 80em) {
+        margin-right: 2em;
+    }
+
+    @media only screen and (max-width: 40em) {
+        display: block;
+        margin-right: 0px;
+    }
 }
 
 .post-layout-columns .post-wrapper .post-column, .footer-widgets-columns .footer-widget-column {
@@ -29,17 +46,39 @@
 
 .post-layout-three-columns .post-wrapper .post-column {
     width: 33.3333%;
+
+    @media only screen and (max-width: 60em) {
+        width: 50%;
+    }
+
+    @media only screen and (max-width: 40em) {
+        width: 100%;
+    }
 }
 
 .post-layout-columns .post-wrapper .post-column {
     box-sizing: border-box;
     padding-right: 3em;
+
+    @media only screen and (max-width: 80em) {
+        padding-right: 2em;
+    }
+
+    @media only screen and (max-width: 40em) {
+        display: block;
+        float: none;
+        padding-right: 0px;
+    }
 }
 
 .type-post {
     max-width: 100%;
     margin: 0px 0px 3em;
     padding: 0px;
+
+    @media only screen and (max-width: 80em) {
+        margin-bottom: 2em;
+    }
 }
 
 .post-layout-columns .post-wrapper .post-column .type-post .post-image {
@@ -49,7 +88,7 @@
 .post-wrapper .type-post .entry-title {
     font-size: 1.75rem;
 
-    @media only screen and (max-width: 50em) {
+    @media only screen and (max-width: 70em) {
         font-size: 1.5rem;
     }
 
@@ -57,7 +96,7 @@
         font-size: 1.75rem;
     }
 
-    @media only screen and (max-width: 70em) {
+    @media only screen and (max-width: 50em) {
         font-size: 1.5rem;
     }
 }
@@ -73,7 +112,7 @@
     margin: 0px;
     padding: 0px;
 
-    @media only screen and (max-width: 50em) {
+    @media only screen and (max-width: 70em) {
         font-size: 2rem;
     }
 
@@ -81,7 +120,7 @@
         font-size: 2.25rem;
     }
 
-    @media only screen and (max-width: 70em) {
+    @media only screen and (max-width: 50em) {
         font-size: 2rem;
     }
 }

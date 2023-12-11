@@ -4,14 +4,13 @@
     background-color: var(--page-background-color);
     margin: 0px auto;
     padding: 0px 5em;
-    padding-bottom: 3em;
+
+    @media only screen and (max-width: 80em) {
+        padding: 0px 3em;
+    }
 
     @media only screen and (max-width: 50em) {
         padding: 0px 2em;
-    }
-
-    @media only screen and (max-width: 80em) and (min-width: 50em) {
-        padding: 0px 3em;
     }
 }
 
@@ -59,5 +58,13 @@
 
     @media only screen and (max-width: 60em) {
         margin: 0.5em 0px 0px;
+    }
+}
+
+.site-content {
+    padding: 3em 0px 1em;
+
+    @media only screen and (max-width: 80em) {
+        padding: 2em 0px 1em;
     }
 }
