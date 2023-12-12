@@ -99,6 +99,14 @@
     @media only screen and (max-width: 50em) {
         font-size: 1.5rem;
     }
+
+    @media only screen and (max-width: 40em) {
+        font-size: 1.75rem;
+    }
+
+    @media only screen and (max-width: 30em) {
+        font-size: 1.5rem;
+    }
 }
 
 .page-title, .entry-title {
@@ -128,14 +136,4 @@
 .entry-title a:link, .entry-title a:visited {
     color: var(--title-color);
     text-decoration: none;
-}
-
-.page-title, .entry-title, .post-wrapper .type-post .entry-title {
-    @media only screen and (max-width: 30em) {
-        font-size: 1.5rem;
-    }
-
-    @media only screen and (max-width: 40em) {
-        font-size: 1.75rem;
-    }
 }
