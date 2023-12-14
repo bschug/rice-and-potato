@@ -3,6 +3,7 @@ layout: post
 title: "The Dire Sandwich"
 image: /assets/img/dire-sandwich-wm.jpg
 greeting: Enjoy Your Meal!
+tags: sandwich toast butter cheese bacon egg tomato lettuce onion 
 ---
 
 ## Ingredients (for one person)

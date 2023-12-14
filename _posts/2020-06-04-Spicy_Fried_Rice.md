@@ -3,6 +3,7 @@ layout: post
 title: "Spicy Fried Rice"
 image: /assets/img/fried-rice-wm.jpg
 greeting: 慢用！
+tags: chinese spicy rice chorizo mushrooms garlic shallot egg onion maggi carrot
 ---
 
 ## Ingredients (2 portions)

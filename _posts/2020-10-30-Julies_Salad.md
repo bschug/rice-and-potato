@@ -3,6 +3,7 @@ layout: post
 title: "Julie's Salad"
 image: /assets/img/julie-salad-wm.jpg
 greeting: Enjoy your meal!
+tags: salad lettuce tomato cucumber avocado corn olive-oil lemon garlic mustard honey 
 ---
 
 ## Ingredients (for 2 persons)

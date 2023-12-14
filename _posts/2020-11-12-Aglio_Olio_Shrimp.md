@@ -3,6 +3,7 @@ layout: post
 title: "Aglio e Olio with Shrimp"
 image: /assets/img/aglio-wm.jpg
 greeting: Buon appetito!
+tags: italian pasta spaghetti olive-oil garlic shrimp spicy parmigiano
 ---
 
 ## Ingredients (2 portions)
@@ -14,7 +15,7 @@ greeting: Buon appetito!
  - 10 medium sized shrimps
  - salt
  - black pepper
- - 50 g parmesan cheese (grated)
+ - 50 g parmigiano reggiano (freshly grated)
  - parsley
  
 ## Procedure

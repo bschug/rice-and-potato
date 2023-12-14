@@ -3,6 +3,7 @@ layout: post
 title: "Garlic Soup"
 image: /assets/img/garlic-soup-wm.jpg
 greeting: Dobrou chuť!
+tags: czech soup garlic leek onion potato cream cheese
 ---
 
 ## Ingredients (for 8 servings)

@@ -3,6 +3,7 @@ layout: post
 title: "German Beef Soup"
 image: /assets/img/german-beef-soup-wm.jpg
 greeting: Guten Appetit!
+tags: german soup beef meat carrot onion celeriac leek 
 ---
 
 ## Ingredients (4 portions)

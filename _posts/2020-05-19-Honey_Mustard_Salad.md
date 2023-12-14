@@ -3,6 +3,7 @@ layout: post
 title: Honey Mustard Chicken Salad
 image: /assets/img/honey-mustard-salad-wm.jpg
 greeting: Guten Appetit!
+tags: salad lettuce egg bacon tomato chicken honey mustard balsamico garlic light
 ---
 
 ## Ingredients (2 portions)

@@ -3,6 +3,7 @@ layout: post
 title: "Sesame Chicken"
 image: /assets/img/sesame-chicken-wm.jpg
 greeting: 좋은 성향!
+tags: korean chicken garlic soy-sauce mirin egg sesame sesame-oil spring-onion
 ---
 
 ## Ingredients (for 2 persons)

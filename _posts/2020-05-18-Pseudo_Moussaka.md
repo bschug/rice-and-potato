@@ -3,6 +3,7 @@ layout: post
 title: "Pseudo Moussaka"
 image: /assets/img/moussaka-wm.jpg
 greeting: Καλή όρεξη & Afiyet olsun!
+tags: greek turkish rice meat minced-meat eggplant onion garlic tomato
 ---
 
 ## Ingredients (4 portions)

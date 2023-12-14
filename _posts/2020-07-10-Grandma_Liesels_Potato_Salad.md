@@ -3,6 +3,7 @@ layout: post
 title: "Grandma Liesel's Potato Salad"
 image: /assets/img/potato-salad-wm.jpg
 greeting: Mahlzeit!
+tags: german salad potato bacon cream maggi onion
 ---
 
 ## Ingredients (for 10 persons)

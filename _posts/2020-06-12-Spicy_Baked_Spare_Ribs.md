@@ -3,6 +3,7 @@ layout: post
 title: "Spicy Baked Spare Ribs"
 image: /assets/img/ribs-wm.jpg
 greeting: Enjoy your meal!
+tags: spare-ribs meat garlic soy-sauce mirin ginger 
 ---
 
 ## Ingredients (for 2 persons)

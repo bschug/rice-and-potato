@@ -3,6 +3,7 @@ layout: post
 title: "Spaghetti Carbonara"
 image: /assets/img/spag3-wm.jpg
 greeting: Buon Appetito!
+tags: italian spaghetti pasta egg parmigiano bacon garlic quick
 ---
 
 ## Ingredients (for 2 persons)

@@ -3,6 +3,7 @@ layout: post
 title: "Mushroom Cream Pasta"
 image: /assets/img/mushroom-cream-pasta-wm.jpg
 greeting: Buon Appetito!
+tags: italian pasta tagliatelle mushroom onion garlic cream parmigiano maggi
 ---
 
 ## Ingredients (for 3 people)
@@ -13,7 +14,7 @@ greeting: Buon Appetito!
  - 5 cloves of garlic
  - 100 ml olive oil
  - 250 ml cream
- - 100 g Parmesan cheese
+ - 100 g Parmigiano Reggiano
  - 250 ml vegetable stock
  - 1 tablespoon corn starch
  - a bunch of parsley

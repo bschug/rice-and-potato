@@ -3,6 +3,7 @@ layout: post
 title: "Roti Burrito"
 image: /assets/img/roti-burrito-wm.jpg
 greeting: Buen provecho! अपने भोजन का आनंद लें!
+tags: mexican indian wrap shrimp cabbage garlic spring-onion lemon avocado tomato
 ---
 
 ## Ingredients (for 2 persons)
