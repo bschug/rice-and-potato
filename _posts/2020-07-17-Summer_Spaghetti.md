@@ -7,18 +7,18 @@ greeting: Buon Appetito!
 
 ## Ingredients (2 portion)
 
- - 250 g Spaghetti
- - 100 g Parmesan Cheese
- - 8 Cherry Tomatoes
- - 12 leaves of fresh Basil 
+ - 250 g spaghetti
+ - 100 g Pprmesan cheese
+ - 8 cherry tomatoes
+ - 12 leaves of fresh basil 
  
 ### For the Sauce
 
- - 100 ml Olive Oil
- - 30 ml Balsamic Vinegar
- - 3 cloves of Garlic
- - 1 tablespoon Dried Oregano
- - 1/2 teaspoon Chili Flakes</li></ul>
+ - 100 ml olive oil
+ - 30 ml balsamic vinegar
+ - 3 cloves of garlic
+ - 1 tablespoon dried oregano
+ - 1/2 teaspoon chili flakes
 
 ## Procedure
 

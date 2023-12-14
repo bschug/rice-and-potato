@@ -7,15 +7,15 @@ greeting: Buon appetito!
 
 ## Ingredients (2 portions)
 
- - 250 grams Spaghetti
+ - 250 grams spaghetti
  - 1/3 cup of olive oil
  - 8 cloves of garlic (thinly sliced)
  - 1/4 tsp chili flakes
  - 10 medium sized shrimps
- - Salt
- - Black Pepper
- - 50 g Parmesan Cheese (grated)
- - Parsley
+ - salt
+ - black pepper
+ - 50 g parmesan cheese (grated)
+ - parsley
  
 ## Procedure
 

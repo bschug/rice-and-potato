@@ -15,9 +15,9 @@ greeting: Dobrou chuť!
  - Olive oil
  - 1/2 cup cream
  - 1500 ml of vegetable broth
- - Parsley
- - Croutons
- - Salt and pepper
+ - parsley
+ - croutons
+ - salt and pepper
  - 8 tablespoons of grated cheese
  
 ## Procedure

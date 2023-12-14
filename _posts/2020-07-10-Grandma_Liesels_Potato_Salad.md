@@ -18,7 +18,7 @@ greeting: Mahlzeit!
  - salt
  - black pepper
  - 1 tsp Maggi seasoning
- - Parsley
+ - parsley
  
 ## Procedure
 

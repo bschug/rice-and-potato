@@ -8,7 +8,7 @@ greeting: 慢用！
 ## Ingredients (2 portions)
  - 1 cup cooked rice (cold)
  - Spanish Chorizo sausage
- - 1 hand full of Champignons (mushrooms)
+ - 1 hand full of mushrooms (e.g. champignons)
  - 2 cloves garlic
  - 1 shallot (small)
  - 2 eggs
