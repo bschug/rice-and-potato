@@ -1,2 +1,4 @@
 sass:
   sass_dir: _sass
+
+permalink: /recipe/:slug
