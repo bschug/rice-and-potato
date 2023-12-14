@@ -1,6 +1,18 @@
+.post-wrap {
+    display: flex;
+}
+
 .post-body {
     margin-left: 1em;
     margin-right: 1em;
+}
+
+.sidebar-wrap {
+    width: 20em;
+}
+
+.sidebar {
+    display: block;
 }
 
 .textpost {

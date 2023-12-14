@@ -1,19 +1,28 @@
 !function() {
     function initTags() {
+        var tagFromUrl = getTagFromUrl();
+
         var tagListEntries = document.querySelectorAll(".tag-list .tag-button");
         tagListEntries.forEach((entry) => {
+            var entryTag = entry.textContent;
+
             entry.addEventListener('click', function() {
                 var enabledBefore = entry.classList.contains('toggled-on');
                 disableAllPostLinks();
 
                 if (!enabledBefore) {
                     entry.classList.add('toggled-on');
-                    enablePostLinksForTag(entry.textContent);
+                    enablePostLinksForTag(entryTag);
                 }
-            })
+            });
+
+            if (entryTag === tagFromUrl) {
+                entry.classList.add('toggled-on');
+                enablePostLinksForTag(entryTag);
+            }
         });
     }
-
+    
     function disableAllPostLinks() {
         var allPostLinks = document.querySelectorAll(".post-links li");
         allPostLinks.forEach((postLink) => { postLink.classList.remove('toggled-on'); });
@@ -30,7 +39,17 @@
         });
     }
 
+    function getTagFromUrl() {
+        var hash = window.location.hash;
+        if (hash.length <= 1) {
+            return null;
+        }
+
+        return hash.substring(1);
+    }
+
     document.addEventListener("DOMContentLoaded", function() {
         initTags();
+        window.location.hash = '';
     })
 }();
