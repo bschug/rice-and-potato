@@ -32,3 +32,6 @@ jobs:
       
       - name: Upload to S3
         run: aws s3 sync ./_site/ s3://rice-and-potato.com --delete
+
+      - name: Invalidate Cloudfront Cache 
+        run: aws cloudfront create-invalidation --distribution-id ${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }} --paths "/*"
