@@ -3,7 +3,7 @@ layout: post
 title: "Mushroom Cream Pasta"
 image: /assets/img/mushroom-cream-pasta-wm.jpg
 greeting: Buon Appetito!
-tags: italian pasta tagliatelle mushroom onion garlic cream parmigiano maggi
+tags: italian pasta tagliatelle mushroom onion garlic cream parmigiano maggi vegetarian
 ---
 
 ## Ingredients (for 3 people)

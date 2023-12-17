@@ -3,7 +3,7 @@ layout: post
 title: "Spinach Cheese Pasta"
 image: /assets/img/spinach-cheese-pasta-wm.jpg
 greeting: Guten Appetit!
-tags: pasta quick spinach cream-cheese garlic broccoli parmigiano
+tags: pasta quick spinach cream-cheese garlic broccoli parmigiano vegetarian
 ---
 
 ## Ingredients (2 portions)

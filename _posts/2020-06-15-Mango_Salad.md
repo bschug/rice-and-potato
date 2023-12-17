@@ -3,7 +3,7 @@ layout: post
 title: "Mango Salad"
 image: /assets/img/mango-salad-wm.jpg
 greeting: ให้อร่อยนะ!
-tags: thai salad mango spicy bell-pepper shallot lime light
+tags: thai salad mango spicy bell-pepper shallot lime light vegetarian vegan
 ---
 
 ## Ingredients (for 2 persons)

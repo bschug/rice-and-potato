@@ -3,7 +3,7 @@ layout: post
 title: "Mango Float"
 image: /assets/img/mango-float-wm.jpg
 greeting: Mangaon ta or Kainan na!
-tags: filipino mango dessert vanilla
+tags: filipino mango dessert vanilla vegetarian
 ---
 
 ## Ingredients

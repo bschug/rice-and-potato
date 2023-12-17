@@ -3,7 +3,7 @@ layout: post
 title: "Pepper Cream Sauce"
 image: /assets/img/pepper-cream-sauce-wm.jpg
 greeting: Guten Appetit!
-tags: german sauce pepper green-pepper cream
+tags: german sauce pepper green-pepper cream 
 ---
 
 ## Ingredients (2 portions)
@@ -30,3 +30,4 @@ tags: german sauce pepper green-pepper cream
 
  - We are using the amount of beef stock powder that you'd use for 300 ml of beef, but reducing the amount of water we dissolve it in to make the sauce thicken faster.
  - If you reduce the brandy all the way until virtually all the liquid has evaporated, this dish won't contain any alcohol and still retain the rich taste of the brandy.
+ - Serve with rice and chicken, or a steak.

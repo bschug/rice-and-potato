@@ -9,10 +9,12 @@ nationality:
  - italian
  - korean
  - mexican
+ - saarländisch
  - thai
  - turkish
 
 category:
+ - cake
  - dessert
  - pasta
  - soup
@@ -23,4 +25,4 @@ quality:
  - quick
  - spicy
  - vegetarian
-
+ - vegan

@@ -3,7 +3,7 @@ layout: post
 title: "Summer Spaghetti"
 image: /assets/img/summer-spaghetti-wm.jpg
 greeting: Buon Appetito!
-tags: italian pasta spaghetti parmigiano tomato basil quick
+tags: italian pasta spaghetti parmigiano tomato basil quick vegetarian
 ---
 
 ## Ingredients (2 portion)

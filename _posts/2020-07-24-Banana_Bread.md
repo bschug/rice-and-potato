@@ -3,7 +3,7 @@ layout: post
 title: "Banana Bread"
 image: /assets/img/banana-bread-wm.jpg
 greeting: Enjoy your meal!
-tags: american dessert cake banana flour butter egg yogurt walnut vanilla
+tags: american dessert cake banana flour butter egg yogurt walnut vanilla vegetarian
 ---
 
 ## Ingredients

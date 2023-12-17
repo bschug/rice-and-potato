@@ -3,7 +3,7 @@ layout: post
 title: "Spaghetti Bolognese"
 image: /assets/img/spaghetti-bolognese-wm.jpg
 greeting: Buon Appetito!
-tags: italian pasta spaghetti tomato carrot celery onion meat minced-meat bacon wine bay-leaves milk
+tags: italian pasta spaghetti tomato carrot celery onion beef pork minced-meat bacon wine bay-leaves milk
 ---
 
 ## Ingredients (8 portions)

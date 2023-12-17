@@ -3,7 +3,7 @@ layout: post
 title: "Bruschetta"
 image: /assets/img/bruschetta-wm.jpg
 greeting: Buon Appetito!
-tags: italian sandwich baguette bread tomato balsamico olive-oil basil garlic cheese light
+tags: italian sandwich baguette bread tomato balsamico olive-oil basil garlic cheese light vegetarian
 ---
 
 ## Ingredients

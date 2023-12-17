@@ -3,7 +3,7 @@ layout: post
 title: Honey Mustard Chicken Salad
 image: /assets/img/honey-mustard-salad-wm.jpg
 greeting: Guten Appetit!
-tags: salad lettuce egg bacon tomato chicken honey mustard balsamico garlic light
+tags: salad lettuce egg bacon tomato chicken honey mustard balsamico garlic light vegetarian
 ---
 
 ## Ingredients (2 portions)
@@ -50,3 +50,4 @@ tags: salad lettuce egg bacon tomato chicken honey mustard balsamico garlic ligh
  - You may need to run some hot water over the measuring cup - if the honey is too cold, it won't mix well.
  - The water you used for the eggs might be useful for that.
  - You can substitute the corn oil with any neutral oil, e.g. canola oil.
+ - For a vegetarian alternative, just leave out the bacon and chicken or replace them with a plant based alternative.

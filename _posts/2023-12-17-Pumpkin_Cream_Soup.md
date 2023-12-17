@@ -3,7 +3,7 @@ layout: post
 title: "Pumpkin Cream Soup"
 image: /assets/img/pumpkin-cream-soup-wm.jpg
 greeting: Guten Appetit!
-tags: german pumpkin soup quick milk cream almond chicken chives
+tags: german pumpkin soup quick milk cream almond chicken chives vegetarian
 ---
 
 ## Ingredients (4 portions)
@@ -34,3 +34,4 @@ tags: german pumpkin soup quick milk cream almond chicken chives
 ## Tips
  - You can use frozen chives and sprinkle them directly over the hot soup.
  - If the pumpkin doesn't provide enough sweetness already, you can add a little sugar.
+ - For a vegetarian option, simply leave out the chicken.

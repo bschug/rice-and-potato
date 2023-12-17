@@ -3,7 +3,7 @@ layout: post
 title: "Frikadellen"
 image: /assets/img/frikadellen-wm.jpg
 greeting: Guten Appetit!
-tags: german meat minced-meat onion bun egg maggi mustard breadcrumbs
+tags: german beef pork minced-meat onion bun egg maggi mustard breadcrumbs
 ---
 
 ## Ingredients

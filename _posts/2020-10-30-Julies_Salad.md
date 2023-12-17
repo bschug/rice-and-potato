@@ -2,8 +2,8 @@
 layout: post
 title: "Julie's Salad"
 image: /assets/img/julie-salad-wm.jpg
-greeting: Enjoy your meal!
-tags: salad lettuce tomato cucumber avocado corn olive-oil lemon garlic mustard honey 
+greeting: Enjoy your meal! 
+tags: salad light lettuce tomato cucumber avocado corn olive-oil lemon garlic mustard honey vegetarian vegan
 ---
 
 ## Ingredients (for 2 persons)
