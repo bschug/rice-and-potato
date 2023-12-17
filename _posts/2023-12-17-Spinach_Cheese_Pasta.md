@@ -12,9 +12,9 @@ tags: pasta quick spinach cream-cheese garlic broccoli parmigiano
  - 250 g __broccoli__
  - 250 g __spinach__ leaves
  - 5 cloves of __garlic__
- - 1 tbsp __olive oil__
+ - 1 tablespoon __olive oil__
  - 150 g __cream cheese__
- - 5 tbsp freshly grated __parmigiano reggiano__
+ - 75 ml freshly grated __parmigiano reggiano__
  - __salt__, __black pepper__ and __nutmeg__ to taste
 
 ## Procedure

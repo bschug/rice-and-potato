@@ -3,23 +3,23 @@ layout: post
 title: "Banana Bread"
 image: /assets/img/banana-bread-wm.jpg
 greeting: Enjoy your meal!
-tags: american dessert cake banana flour butter egg yogurt walnut
+tags: american dessert cake banana flour butter egg yogurt walnut vanilla
 ---
 
 ## Ingredients
 
- - 4 ripe bananas
- - 2 cups flour
- - 1 tsp baking soda
- - 1/4 tsp salt
- - 1/2 cup unsalted butter (melted)
- - 1 cup white sugar
- - 1 tsp vanilla extract
- - 1 large egg
- - 1 egg yolk (large)
- - 1/4 cup yogurt
- - 1/4 cup walnuts 
- - chocolate chips
+ - 4 ripe __bananas__
+ - 2 cups __flour__
+ - 1 tsp __baking soda__
+ - 1/4 tsp __salt__
+ - 1/2 cup unsalted __butter__ (melted)
+ - 1 cup white __sugar__
+ - 1 tsp __vanilla extract__
+ - 1 large __egg__
+ - 1 __egg yolk__ (large)
+ - 1/4 cup __yogurt__
+ - 1/4 cup __walnuts__ 
+ - __chocolate chips__
  
 ## Procedure
 

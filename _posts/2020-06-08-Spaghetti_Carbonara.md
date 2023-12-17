@@ -7,15 +7,15 @@ tags: italian spaghetti pasta egg parmigiano bacon garlic quick
 ---
 
 ## Ingredients (for 2 persons)
- - 200 g spaghetti
- - 2 whole eggs
- - 1 egg yolk
- - 50 grams Parmigiano Reggiano, freshly grated
- - 75 g of Guanciale
- - olive oil
- - 1 clove garlic
- - salt
- - pepper
+ - 200 g __spaghetti__
+ - 1 whole __egg__
+ - 1 __egg yolk__
+ - 50 grams __parmigiano reggiano__, freshly grated
+ - 75 g of __Guanciale__
+ - __olive oil__
+ - 1 clove __garlic__
+ - __salt__
+ - __pepper__
  
 ## Procedure
 1. Cut the guanciale into small pieces.

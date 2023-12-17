@@ -8,18 +8,18 @@ tags: czech soup garlic leek onion potato cream cheese
 
 ## Ingredients (for 8 servings)
 
- - 2 bulbs medium garlic
- - 1 stalk of Leek
- - 1 white onion
- - 2 potatoes
- - 1/2 tsp dried thyme
- - Olive oil
- - 1/2 cup cream
- - 1500 ml of vegetable broth
- - parsley
- - croutons
- - salt and pepper
- - 8 tablespoons of grated cheese
+ - 2 bulbs medium __garlic__
+ - 1 stalk of __leek__
+ - 1 white __onion__
+ - 2 __potatoes__
+ - 1/2 tsp dried __thyme__
+ - __olive oil__
+ - 1/2 cup __cream__
+ - 1500 ml of __vegetable broth__
+ - __parsley__
+ - __croutons__
+ - __salt__ and __pepper__
+ - 8 tablespoons of __grated cheese__
  
 ## Procedure
 

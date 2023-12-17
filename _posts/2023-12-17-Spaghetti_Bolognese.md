@@ -8,14 +8,14 @@ tags: italian pasta spaghetti tomato carrot celery onion meat minced-meat bacon 
 
 ## Ingredients (8 portions)
 
- - 4 tbsp __olive oil__
+ - 60 ml __olive oil__
  - 2 __carrots__
  - 2 __celery__ stalks
  - 2 __onion__
  - 1 kg __minced meat__ (beef and pork)
  - 200 g __bacon__ (small cubes)
  - 250 ml __red wine__
- - 4 tbsp __tomato paste__
+ - 60 ml __tomato paste__
  - 1 liter __sieved tomatoes__
  - 4 __bay leaves__
  - 150 ml __milk__

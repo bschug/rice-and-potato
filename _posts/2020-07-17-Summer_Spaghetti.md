@@ -8,18 +8,18 @@ tags: italian pasta spaghetti parmigiano tomato basil quick
 
 ## Ingredients (2 portion)
 
- - 250 g spaghetti
- - 100 g Pprmesan cheese
- - 8 cherry tomatoes
- - 12 leaves of fresh basil 
+ - 250 g __spaghetti__
+ - 100 g __parmigiano reggiano__
+ - 8 __cherry tomatoes__
+ - 12 leaves of fresh __basil__ 
  
 ### For the Sauce
 
- - 100 ml olive oil
- - 30 ml balsamic vinegar
- - 3 cloves of garlic
- - 1 tablespoon dried oregano
- - 1/2 teaspoon chili flakes
+ - 100 ml __olive oil__
+ - 30 ml __balsamic vinegar__
+ - 3 cloves of __garlic__
+ - 1 tablespoon dried __oregano__
+ - 1/2 teaspoon __chili flakes__
 
 ## Procedure
 

@@ -8,24 +8,24 @@ tags: salad lettuce egg bacon tomato chicken honey mustard balsamico garlic ligh
 
 ## Ingredients (2 portions)
  
- - 1 lettuce
- - 2 eggs
- - 75g bacon, small cubes
- - 10 cherry tomatoes
- - 200g chicken filet
- - salt
- - black pepper
- - corn oil
+ - 1 __lettuce__
+ - 2 __eggs__
+ - 75g __bacon__, small cubes
+ - 10 __cherry tomatoes__
+ - 200g __chicken__ filet
+ - __salt__
+ - __black pepper__
+ - __corn oil__
  
 ### For the Sauce:
- - 4 tsp honey
- - 4 tsp medium spicy mustard
- - 1 tsp balsamic vinegar
- - 2 cloves garlic
- - 50 ml Kalamata olive oil
- - 100-150 ml corn oil
- - salt
- - black pepper
+ - 4 tsp __honey__
+ - 4 tsp medium spicy __mustard__
+ - 1 tsp __balsamic vinegar__
+ - 2 cloves __garlic__
+ - 50 ml Kalamata __olive oil__
+ - 100-150 ml __corn oil__
+ - __salt__
+ - __black pepper__
  
 ## Procedure
 

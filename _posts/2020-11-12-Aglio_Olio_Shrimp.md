@@ -8,15 +8,15 @@ tags: italian pasta spaghetti olive-oil garlic shrimp spicy parmigiano
 
 ## Ingredients (2 portions)
 
- - 250 grams spaghetti
- - 1/3 cup of olive oil
- - 8 cloves of garlic (thinly sliced)
- - 1/4 tsp chili flakes
- - 10 medium sized shrimps
- - salt
- - black pepper
- - 50 g parmigiano reggiano (freshly grated)
- - parsley
+ - 250 grams __spaghetti__
+ - 1/3 cup of __olive oil__
+ - 8 cloves of __garlic__ (thinly sliced)
+ - 1/4 tsp __chili flakes__
+ - 10 medium sized __shrimps__
+ - __salt__
+ - __black pepper__
+ - 50 g __parmigiano reggiano__ (freshly grated)
+ - __parsley__
  
 ## Procedure
 

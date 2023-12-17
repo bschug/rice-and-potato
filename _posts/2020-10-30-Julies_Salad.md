@@ -8,25 +8,25 @@ tags: salad lettuce tomato cucumber avocado corn olive-oil lemon garlic mustard 
 
 ## Ingredients (for 2 persons)
 
- - lettuce
- - 10 cherry tomatoes
- - 2 small cucumbers
- - 1 medium avocado
- - 1 ear of corn
+ - __lettuce__
+ - 10 __cherry tomatoes__
+ - 2 small __cucumbers__
+ - 1 medium __avocado__
+ - 1 ear of __corn__
  
 ### Dressing:
 
- - 6 tablespoon olive oil
- - juice of a half lemon
- - 1 clove garlic
- - 1 teaspoon oregano
- - 1/2 tsp thyme
- - 1/2 tsp rosemary
- - 1 tsp mustard
- - 1 tsp honey
- - a pinch of salt
- - black pepper
- - a pinch of chili flakes
+ - 6 tablespoon __olive oil__
+ - juice of a half __lemon__
+ - 1 clove __garlic__
+ - 1 teaspoon __oregano__
+ - 1/2 tsp __thyme__
+ - 1/2 tsp __rosemary__
+ - 1 tsp __mustard__
+ - 1 tsp __honey__
+ - a pinch of __salt__
+ - black __pepper__
+ - a pinch of __chili flakes__
  
 ## Procedure
 

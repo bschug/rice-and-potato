@@ -8,20 +8,20 @@ tags: thai salad mango spicy bell-pepper shallot lime light
 
 ## Ingredients (for 2 persons)
 
- - 1 big mango
- - 1/2 red bell pepper
- - 1 shallot
- - 1 branch of cilantro
- - juice of 1/2 lime
- - salt (a pinch)
- - black pepper (a pinch)
- - chili fakes (a pinch)
+ - 1 big __mango__
+ - 1/2 __red bell pepper__
+ - 1 __shallot__
+ - 1 branch of __cilantro__
+ - juice of 1/2 __lime__
+ - __salt__ (a pinch)
+ - __black pepper__ (a pinch)
+ - __chili flakes__ (a pinch)
  
 ## Procedure
 
  1. Peel and cut the mango and bell pepper into small cubes.
  1. Chop the shallot and cilantro.
- 1. Add all the ingredients into a bowl together with the lime juice, then add a pinch of salt, black pepper and  Chili flakes, then toss it.
+ 1. Add all the ingredients into a bowl together with the lime juice, then add a pinch of salt, black pepper and chili flakes, then toss it.
  
 ## Tips
 

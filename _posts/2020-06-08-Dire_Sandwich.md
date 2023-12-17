@@ -8,19 +8,19 @@ tags: sandwich toast butter cheese bacon egg tomato lettuce onion
 
 ## Ingredients (for one person)
 
- - 3 slices of toast (large)
- - 2 slices of bacon
- - 2 slices of Gouda cheese
- - 1 egg
- - 5-8 tablespoons of butter
- - 1 slice of tomato (large)
- - some fresh lettuce
- - some raw onion rings
- - mayonnaise
- - ketchup
- - barbecue sauce
- - salt
- - black pepper
+ - 3 slices of __toast__ (large)
+ - 2 slices of __bacon__
+ - 2 slices of __Gouda__ cheese
+ - 1 __egg__
+ - 5-8 tablespoons of __butter__
+ - 1 slice of __tomato__ (large)
+ - some fresh __lettuce__
+ - some raw __onion__ rings
+ - __mayonnaise__
+ - __ketchup__
+ - __barbecue sauce__
+ - __salt__
+ - __black pepper__
  
 ## Procedure
 

@@ -7,17 +7,17 @@ tags: chinese spicy rice chorizo mushroom garlic shallot egg onion maggi carrot
 ---
 
 ## Ingredients (2 portions)
- - 1 cup cooked rice (cold)
- - Spanish Chorizo sausage
- - 1 hand full of mushrooms (e.g. champignons)
- - 2 cloves garlic
- - 1 shallot (small)
- - 2 eggs
- - 1 red chili or chili flakes
- - 1 spring onion
- - 1/2 tsp Maggi seasoning
- - 2 big carrots
- - fresh basil
+ - 1 cup cooked __rice__ (cold)
+ - Spanish __Chorizo__ sausage
+ - 1 hand full of __mushrooms__ (e.g. champignons)
+ - 2 cloves __garlic__
+ - 1 __shallot__ (small)
+ - 2 __eggs__
+ - 1 red __chili__ or chili flakes
+ - 1 __spring onion__
+ - 1/2 tsp __Maggi__ seasoning
+ - 2 big __carrots__
+ - fresh __basil__
  
 ## Procedure
 

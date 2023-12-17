@@ -10,25 +10,25 @@ tags: german soup beef meat carrot onion celeriac leek
 
 ### For the soup:
 
- - 500 g beef for soup, without bones
- - 3 carrots
- - 1 large onion
- - 1 slice of celeriac
- - 1/2 leek
- - some parsley
- - salt
- - black pepper
- - water
+ - 500 g __beef__ for soup, without bones
+ - 3 __carrots__
+ - 1 large __onion__
+ - 1 slice of __celeriac__
+ - 1/2 __leek__
+ - some __parsley__
+ - __salt__
+ - __black pepper__
+ - __water__
  
 ### For the dumplings:
 
- - 2 eggs
- - black pepper
- - generous pinch of nutmeg
- - 1 tablespoon parsley
- - 1 tablespoon instant broth
- - 1/2 tsp Maggi seasoning
- - 1 cup breadcrumbs
+ - 2 __eggs__
+ - __black pepper__
+ - generous pinch of __nutmeg__
+ - 1 tablespoon __parsley__
+ - 1 tablespoon __instant broth__
+ - 1/2 tsp __Maggi__ seasoning
+ - 1 cup __breadcrumbs__
  
 ## Procedure
 

@@ -8,20 +8,20 @@ tags: italian pasta tagliatelle mushroom onion garlic cream parmigiano maggi
 
 ## Ingredients (for 3 people)
 
- - 250 g tagliatelle
- - 500 g champignons
- - 3 medium onions
- - 5 cloves of garlic
- - 100 ml olive oil
- - 250 ml cream
- - 100 g Parmigiano Reggiano
- - 250 ml vegetable stock
- - 1 tablespoon corn starch
- - a bunch of parsley
- - 1 tablespoon dried thyme
- - salt
- - black pepper
- - a few drops of Maggi seasoning
+ - 250 g __tagliatelle__
+ - 500 g __champignons__
+ - 3 medium __onions__
+ - 5 cloves of __garlic__
+ - 100 ml __olive oil__
+ - 250 ml __cream__
+ - 100 g __parmigiano reggiano__
+ - 250 ml __vegetable stock__
+ - 1 tablespoon __corn starch__
+ - a bunch of __parsley__
+ - 1 tablespoon __dried thyme__
+ - __salt__
+ - __black pepper__
+ - a few drops of __Maggi__ seasoning
  
 ## Procedure
 

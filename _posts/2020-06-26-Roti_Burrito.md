@@ -10,41 +10,41 @@ tags: mexican indian wrap shrimp cabbage garlic spring-onion lemon avocado tomat
 
 ### Marinated Shrimps
 
- - 15 shrimps (medium size)
- - salt
- - pepper
- - paprika powder
- - garlic powder
- - onion powder
+ - 15 __shrimps__ (medium size)
+ - __salt__
+ - __pepper__
+ - __paprika powder__
+ - __garlic powder__
+ - __onion powder__
  
 ### Shrimp Batter
 
- - 1/2 cup flour
- - 2 tablespoons corn starch
- - salt 
- - pepper
- - paprika powder
- - 2 eggs
- - 1 tsp of water
+ - 1/2 cup __flour__
+ - 2 tablespoons __corn starch__
+ - __salt__ 
+ - __pepper__
+ - __paprika powder__
+ - 2 __eggs__
+ - 1 tsp of __water__
  
 ### Cabbage Salad
 
- - 1 cup cabbage (shredded)
- - 1/4 cup sour cream or yogurt
- - 2 cloves garlic
- - 1 stalk of spring onion
- - 1/8 cup of cilantro
- - 1/8 cup water
- - half of the lemon
+ - 1 cup __cabbage__ (shredded)
+ - 1/4 cup __sour cream__ or yogurt
+ - 2 cloves __garlic__
+ - 1 stalk of __spring onion__
+ - 1/8 cup of __cilantro__
+ - 1/8 cup __water__
+ - juice of 1/2 __lemon__
  
 ### Burrito
 
- - 1 avocado
- - 5 pcs Roti bread
- - chili flakes
- - salt and pepper
- - tomatoes
- - tabasco
+ - 1 __avocado__
+ - 5 pcs __Roti bread__
+ - __chili flakes__
+ - __salt__ and __pepper__
+ - __tomatoes__
+ - __tabasco__
  
 ## Procedure
 

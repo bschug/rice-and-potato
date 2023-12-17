@@ -3,23 +3,23 @@ layout: post
 title: "Pseudo Moussaka"
 image: /assets/img/moussaka-wm.jpg
 greeting: Καλή όρεξη & Afiyet olsun!
-tags: greek turkish rice meat minced-meat eggplant onion garlic tomato
+tags: greek turkish rice meat minced-meat eggplant onion garlic tomato sour-cream
 ---
 
 ## Ingredients (4 portions)
 
- - 500g minced meat (beef & pork)
- - 2 tsp salt
- - 1 tsp black pepper
- - 1/2 tsp maggi seasoning
- - 2 eggplants
- - 3 medium white onions
- - 1 __bulb__ of garlic
- - 2 cans of chopped tomatoes
- - 1/2 cup olive oil
- - dried thyme and oregano
- - sour cream (for seasoning)
- - fresh basil leaves (for garnish)
+ - 500g __minced meat__ (beef & pork)
+ - 2 tsp __salt__
+ - 1 tsp __black pepper__
+ - 1/2 tsp __Maggi__ seasoning
+ - 2 __eggplants__
+ - 3 medium __white onions__
+ - 1 __*bulb*__ of __garlic__
+ - 2 cans of __chopped tomatoes__
+ - 1/2 cup __olive oil__
+ - dried __thyme__ and __oregano__
+ - __sour cream__ (for seasoning)
+ - fresh __basil__ leaves (for garnish)
  
 ## Procedure
 

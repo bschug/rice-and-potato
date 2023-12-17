@@ -13,7 +13,7 @@ tags: german sauce pepper green-pepper cream
  - 50 ml __brandy__
  - 2 __shallots__, diced
  - 30 g (1/2 glass) __pickled green pepper corns__
- - 1 tbsp __butter__
+ - 1 tablespoon __butter__
  - juice of 1/2 __lemon__
  - __salt__ and __black pepper__ to taste
 

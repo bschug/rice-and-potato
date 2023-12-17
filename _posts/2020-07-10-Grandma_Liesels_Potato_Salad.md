@@ -3,23 +3,23 @@ layout: post
 title: "Grandma Liesel's Potato Salad"
 image: /assets/img/potato-salad-wm.jpg
 greeting: Mahlzeit!
-tags: german salad potato bacon cream maggi onion
+tags: german saarländisch salad potato bacon cream maggi onion
 ---
 
 ## Ingredients (for 10 persons)
 
- - 2 kg predominantly waxy table potatoes
- - 500 ml cream
- - 100 g bacon, cut into little cubes
- - 2 medium-sized white onions
- - 2 cloves of garlic
- - 30 ml vinegar
- - 1 tablespoon balsamic vinegar
- - corn seed oil
- - salt
- - black pepper
- - 1 tsp Maggi seasoning
- - parsley
+ - 2 kg predominantly waxy table __potatoes__
+ - 500 ml __cream__
+ - 100 g __bacon__, cut into little cubes
+ - 2 medium-sized __white onions__
+ - 2 cloves of __garlic__
+ - 30 ml __vinegar__
+ - 1 tablespoon __balsamic vinegar__
+ - __corn seed oil__
+ - __salt__
+ - __black pepper__
+ - 1 tsp __Maggi__ seasoning
+ - __parsley__
  
 ## Procedure
 

@@ -8,21 +8,21 @@ tags: spare-ribs meat garlic soy-sauce mirin ginger
 
 ## Ingredients (for 2 persons)
 
- - 600 g spare ribs
- - 1 bulb of garlic
- - 1/4 cup water
- - 1/4 cup soy sauce
- - 1 tsp vinegar
- - 1/4 cup of mirin
- - 1/4 cup brown sugar
- - ~5x3 cm piece of ginger (chopped)
- - 2 tsp onion powder
- - 2 tsp garlic powder
- - 2 tsp paprika
- - 2 pcs red Chili
- - 1 tsp chili flakes
- - 1 tablespoon tomato paste
- - 2 tablespoon barbecue sauce
+ - 600 g __spare ribs__
+ - 1 bulb of __garlic__
+ - 1/4 cup __water__
+ - 1/4 cup __soy sauce__
+ - 1 tsp __vinegar__
+ - 1/4 cup of __mirin__
+ - 1/4 cup __brown sugar__
+ - ~5x3 cm piece of __ginger__ (chopped)
+ - 2 tsp __onion powder__
+ - 2 tsp __garlic powder__
+ - 2 tsp __paprika__
+ - 2 pcs __red chili__
+ - 1 tsp __chili flakes__
+ - 1 tablespoon __tomato paste__
+ - 2 tablespoon __barbecue sauce__
  
 ## Procedure
  

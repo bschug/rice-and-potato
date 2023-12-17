@@ -10,40 +10,40 @@ tags: korean chicken garlic soy-sauce mirin egg sesame sesame-oil spring-onion
 
 ### For the Marinade:
 
- - 200 g chicken breast
- - 2 cloves of garlic
- - 2 tablespoon soy sauce
- - 2 tablespoon mirin 
- - salt
- - pepper
- - a pinch of sugar
- - 1 egg white
- - 1/4 tsp of cornstarch
+ - 200 g __chicken__ breast
+ - 2 cloves of __garlic__
+ - 2 tablespoon __soy sauce__
+ - 2 tablespoon __mirin__ 
+ - __salt__
+ - __pepper__
+ - a pinch of __sugar__
+ - 1 __egg white__
+ - 1/4 tsp of __corn starch__
  
 ### For Frying:
- - 1 cup of corn starch or potato starch
- - salt 
- - pepper
- - 2 cups of oil
+ - 1 cup of __corn starch__ or potato starch
+ - __salt__ 
+ - __pepper__
+ - 2 cups of __oil__
  
 ### For the Sauce:
- - 2 tablespoons soy sauce
- - 2 tablespoons ketchup
- - 2 tablespoon brown sugar
- - 1 tablespoon honey
- - 1 tablespoon vinegar
- - 3 tablespoons water
+ - 2 tablespoons __soy sauce__
+ - 2 tablespoons __ketchup__
+ - 2 tablespoon __brown sugar__
+ - 1 tablespoon __honey__
+ - 1 tablespoon __vinegar__
+ - 3 tablespoons __water__
  
 ### For Thickening the Sauce:
 
- - 1 teaspoon of corn  starch
- - 1 teaspoon cold water
+ - 1 teaspoon of __corn starch__
+ - 1 teaspoon cold __water__
  
 ### For Serving:
 
- - Sesame oil
- - sesame seeds
- - Spring onions
+ - __sesame oil__
+ - __sesame seeds__
+ - __spring onions__
  
 ## Procedure
 

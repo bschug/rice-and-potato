@@ -3,16 +3,16 @@ layout: post
 title: "Mango Float"
 image: /assets/img/mango-float-wm.jpg
 greeting: Mangaon ta or Kainan na!
-tags: filipino mango dessert
+tags: filipino mango dessert vanilla
 ---
 
 ## Ingredients
 
-- 1.5 kg of small yellow Philippine mangoes
- - 3 pack Nestle Cream (250 ml)
- - 1 can sweetened condensed milk (375 g)
- - Graham Crackers
- - 1/4 tsp vanilla (optional)
+ - 1.5 kg of small yellow Philippine __mangoes__
+ - 3 pack __Nestle Cream__ (250 ml)
+ - 1 can __sweetened condensed milk__ (375 g)
+ - __Graham Crackers__
+ - 1/4 tsp __vanilla__ (optional)
  
 ## Procedure
 

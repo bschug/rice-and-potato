@@ -10,21 +10,21 @@ tags: italian sandwich baguette bread tomato balsamico olive-oil basil garlic ch
 
 ### Toppings:
 
- - 3 big tomatoes
- - 1 tablespoon balsamic vinegar
- - 2 tablespoons Kalamata olive oil
- - 1/4 teaspoon oregano
- - fresh basil leaves
- - 1 small clove of garlic
- - salt
- - pepper
+ - 3 big __tomatoes__
+ - 1 tablespoon __balsamic vinegar__
+ - 2 tablespoons Kalamata __olive oil__
+ - 1/4 teaspoon __oregano__
+ - fresh __basil__ leaves
+ - 1 small clove of __garlic__
+ - __salt__
+ - __pepper__
  
 ### For the Bread:
 
- - 1 Italian baguette (whole wheat, not French white)
- - garlic
- - olive oil
- - grated cheese
+ - 1 Italian __baguette__ (whole wheat, not French white)
+ - __garlic__
+ - __olive oil__
+ - grated __cheese__
  
 ## Procedure
 

@@ -8,18 +8,18 @@ tags: german meat minced-meat onion bun egg maggi mustard breadcrumbs
 
 ## Ingredients
 
- - 500 g minced meat, beef and pork
- - 1 onion, finely chopped
- - 1 white bread bun
- - 1 egg
- - 1 tsp salt
- - 1/2 tsp maggi seasoning
- - 1 tbsp mustard
- - 2 tsp paprika powder
- - plenty of black pepper
- - 1 tbsp parsley, finely chopped
- - 1 cup breadcrumbs
- - neutral oil, for frying (e.g. corn seed oil)
+ - 500 g __minced meat__, beef and pork
+ - 1 __onion__, finely chopped
+ - 1 __white bread bun__
+ - 1 __egg__
+ - 1 tsp __salt__
+ - 1/2 tsp __Maggi__ seasoning
+ - 1 tablespoon __mustard__
+ - 2 tsp __paprika powder__
+ - plenty of __black pepper__
+ - 1 tablespoon __parsley__, finely chopped
+ - 1 cup __breadcrumbs__
+ - neutral __oil__, for frying (e.g. corn seed oil)
  
 ## Procedure
  
