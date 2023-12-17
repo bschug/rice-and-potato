@@ -16,11 +16,47 @@ title: Tags - Rice & Potato
     {% endfor %}
 </ul>
 
+{% assign sorted_tags = site.tags | sort %}
+{% assign nationality_tags = site.data.tags.nationality %}
+{% assign quality_tags = site.data.tags.quality %}
+{% assign category_tags = site.data.tags.category %}
+{% assign known_tags = nationality_tags | concat: quality_tags | concat: category_tags %}
+
+<h3>Country</h3>
 <div class="tag-list">
-    {% assign sorted_tags = site.tags | sort %}
     {% for tag in sorted_tags %}
-    <button class="tag-button">{{ tag[0] }}</button>
+        {% if nationality_tags contains tag[0] %}
+        <button class="tag-button">{{ tag[0] }}</button>
+        {% endif %}
     {% endfor %}
 </div>
-    
+
+<h3>Quality</h3>
+<div class="tag-list">
+    {% for tag in sorted_tags %}
+        {% if quality_tags contains tag[0] %}
+        <button class="tag-button">{{ tag[0] }}</button>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<h3>Category</h3>
+<div class="tag-list">
+    {% for tag in sorted_tags %}
+        {% if category_tags contains tag[0] %}
+        <button class="tag-button">{{ tag[0] }}</button>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<h3>Ingredient</h3>
+<div class="tag-list">
+    {% for tag in sorted_tags %}
+        {% unless known_tags contains tag[0] %}
+        <button class="tag-button">{{ tag[0] }}</button>
+        {% endunless %}
+    {% endfor %}
+</div>
+
+
 <script src="/assets/js/tags.js"></script>

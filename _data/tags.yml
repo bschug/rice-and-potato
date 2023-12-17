@@ -1,0 +1,26 @@
+nationality:
+ - american
+ - chinese
+ - czech
+ - filipino
+ - german
+ - greek
+ - indian 
+ - italian
+ - korean
+ - mexican
+ - thai
+ - turkish
+
+category:
+ - dessert
+ - pasta
+ - soup
+ - wrap
+
+quality:
+ - light
+ - quick
+ - spicy
+ - vegetarian
+
