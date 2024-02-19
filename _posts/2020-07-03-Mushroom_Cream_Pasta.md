@@ -25,11 +25,14 @@ tags: italian pasta tagliatelle mushroom onion garlic cream parmigiano maggi veg
  
 ## Procedure
 
- 1. Cut the mushrooms into halves or quarters, depending on their size. Very large ones may need to cut into thick discs.
- 1. Cube the onions and peel the garlic.
+ 1. Cut the mushrooms into halves or quarters, depending on their size. Very large ones may need to cut into thick discs. Cube the onions and peel the garlic.
  1. Stir fry the mushrooms in olive oil under medium heat (5) until they are nicely browned. While they are frying, season them with salt and pepper.
  1. Add the onions and fry until they are translucent.
- 1. Make sure you have the wine ready. Then mince the garlic with a garlic press and add it for 10-20 seconds, just until it becomes fragrant.
- 1. Deglaze with the wine, then reduce it until the liquid is almost gone. 
- 1. Add the cream, then dissolve the chicken stock powder in 50 ml of boiling hot water and add it to the sauce.
+ 1. Make sure you have the wine ready. Then mince the garlic with a garlic press and add it for 10-20 seconds, just until it becomes fragrant. Deglaze with the wine, then reduce it until the liquid is almost gone. 
+ 1. Add the cream, then dissolve the chicken stock powder in 50 ml of boiling hot water and add it to the sauce. Simmer for a few minutes to reduce slightly.
  1. Add Maggi, parsley, thyme, then grate the cheese and dissolve it in the sauce. Season to taste with salt and pepper.
+ 1. Serve with pasta.
+
+## Tips
+
+ - You can slightly undercook the pasta for a minute less than instructed and finish cooking it in the sauce. This will make for a more creamy sauce, but less pretty presentation.
